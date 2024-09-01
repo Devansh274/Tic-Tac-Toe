@@ -1,0 +1,1 @@
+This mini project showcases a TicTacToe game developed using HTML, CSS and vanilla Javascript
